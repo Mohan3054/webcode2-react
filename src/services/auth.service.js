@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const API_URL = "https://webcodetask.herokuapp.com/api/auth/";
+const API_URL = "https://crm-2qql.onrender.com/api/auth/";
 
 class AuthService {
   login(username, password) {
